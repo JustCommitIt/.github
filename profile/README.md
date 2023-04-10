@@ -7,6 +7,9 @@
 
 🙋🏻: 커밋을 깜빡하면 어떡하죠?  ✅  `괜찮아요! 개인 레포의 Readme에 깜빡일자를 적어주세요!`
 
+## Rules
+- 레포 생성 시 `학습주제-이름`으로 생성합니다.
+- 다른 사람의 레포를 동의 없이 삭제하거나 수정하지 않습니다.
 
 ![logo](https://user-images.githubusercontent.com/71758542/231013803-bf8a51b5-a2c6-4912-bb77-756cdecfa3fd.png)
 
